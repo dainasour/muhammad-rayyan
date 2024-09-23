@@ -2,7 +2,7 @@ import React from 'react';
 import './Hero.css';
 import man_emoji1 from "../../assets/man_emoji1.jfif";
 import AnchorLink from 'react-anchor-link-smooth-scroll';
-import resume from '../../assets/resume/dummy.pdf';
+import resume from '../../assets/resume/resume.pdf';
 
 const Hero = () => {
   return (
